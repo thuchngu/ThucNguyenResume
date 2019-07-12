@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1562883174 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562883175
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
+["pdflatex"] 1562899229 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562899230
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -19,9 +19,9 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls" 1544474704 19933 3097d1b31d3c45dc957096f554529032 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo" 1544474702 8294 6d6e23d5169c0d89d173f6c7e08a005a ""
-  "ThucNguyenResume.aux" 1562883175 1306 bca9e3343f78c005c2347e2c129b2116 "pdflatex"
-  "ThucNguyenResume.tex" 1562883173 1518 fa9aa075cc90168d91604d88e9cefd73 ""
+  "ThucNguyenResume.aux" 1562899230 1507 14dd5805038ecb0c7262cb4c8bfbe5f8 "pdflatex"
+  "ThucNguyenResume.tex" 1562899229 2452 03c3124960d7d2985ba49f80635cbf77 ""
   (generated)
+  "ThucNguyenResume.pdf"
   "ThucNguyenResume.log"
   "ThucNguyenResume.aux"
-  "ThucNguyenResume.pdf"

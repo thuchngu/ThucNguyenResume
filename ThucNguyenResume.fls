@@ -1,4 +1,4 @@
-PWD D:\Documents\ThucNguyenResume
+PWD C:\Users\Thuc Nguyen\Documents\Resume
 INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT ThucNguyenResume.tex
 OUTPUT ThucNguyenResume.log
@@ -6,6 +6,8 @@ INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\arti
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.sty

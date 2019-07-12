@@ -6,6 +6,19 @@ INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\arti
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\stix.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\stix.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
@@ -27,22 +40,28 @@ INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\
 INPUT ThucNguyenResume.aux
 INPUT ThucNguyenResume.aux
 OUTPUT ThucNguyenResume.aux
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls2stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls2stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\t1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\t1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
 OUTPUT ThucNguyenResume.pdf
 INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT ThucNguyenResume.aux
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\stix\stix-t1.enc
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Italic.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Italic.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Regular.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Regular.pfb

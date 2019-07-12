@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1562948590 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562948604
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
+["pdflatex"] 1562970706 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562971062
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -23,8 +23,8 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/nopageno/nopageno.sty" 923785200 947 32f9abe6276a11a5422e521974f546b6 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenResume.aux" 1562948591 1427 206fb763751f9f22f2f8d2b62ee958b4 "pdflatex"
-  "ThucNguyenResume.tex" 1562948604 2988 e3a7eb74678ed52f60c6a7757dede9be ""
+  "ThucNguyenResume.aux" 1562970706 1544 df546fa1e562a8a55598b0da9d439bc5 "pdflatex"
+  "ThucNguyenResume.tex" 1562970705 4261 b8729cffc605131f260913570b7d3b11 ""
   (generated)
   "ThucNguyenResume.log"
   "ThucNguyenResume.pdf"

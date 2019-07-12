@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  12 JUL 2019 12:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  12 JUL 2019 18:31
 entering extended mode
 **./ThucNguyenResume.tex
 (ThucNguyenResume.tex
@@ -87,18 +87,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 metry.cfg")) (ThucNguyenResume.aux)
 \openout1 = `ThucNguyenResume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -134,11 +134,11 @@ LaTeX Font Info:    ... okay on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ThucNguyenResume.tex:46: Undefined control sequence.
+ThucNguyenResume.tex:42: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.46 \subsection{Programming}
-                             
+l.42 \subsection{Proficient}
+                            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -146,24 +146,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 46.
-ThucNguyenResume.tex:48: Undefined control sequence.
+(Font)              <5> on input line 42.
+ThucNguyenResume.tex:45: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.48 \subsection{Other}
-                       
+l.45 \subsection{Familiar}
+                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:52: Undefined control sequence.
+ThucNguyenResume.tex:50: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.52 ...oston University Center for Space Physics}
+l.50 ...oston University Center for Space Physics}
                                                     \textit{Research Assista...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -171,10 +171,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:56: Undefined control sequence.
+ThucNguyenResume.tex:55: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.56 \subsection{Mugar Memorial Library}
+l.55 \subsection{Mugar Memorial Library}
                                          \textit{Library Assistant}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -193,10 +193,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:76: Undefined control sequence.
+ThucNguyenResume.tex:82: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.76 \subsection{Custom Mechanical Keyboard}
+l.82 \subsection{Custom Mechanical Keyboard}
                                              \textit{Personal Project}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -204,10 +204,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:79: Undefined control sequence.
+ThucNguyenResume.tex:86: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.79 \subsection{Lamp Post Mounted Flood Detector}
+l.86 \subsection{Lamp Post Mounted Flood Detector}
                                                    \textit{Final Project for...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -215,11 +215,22 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:82: Undefined control sequence.
+ThucNguyenResume.tex:90: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.82 \subsection{Verilog Digital Lock}
+l.90 \subsection{Verilog Digital Lock}
                                        \textit{Final Project for Logic Desig...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ThucNguyenResume.tex:94: Undefined control sequence.
+<argument> \medium 
+                   \bfseries 
+l.94 \subsection{Currency Conversion App}
+                                          \textit{Final Project for Software...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -232,12 +243,12 @@ and I'll forget about whatever was undefined.
 (ThucNguyenResume.aux) ) 
 Here is how much of TeX's memory you used:
  1081 strings out of 492891
- 15638 string characters out of 3120746
- 86096 words of memory out of 3000000
+ 15604 string characters out of 3120746
+ 87099 words of memory out of 3000000
  5045 multiletter control sequences out of 15000+200000
  5505 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,33p,318b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,4n,33p,407b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Thuc Nguyen/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Thuc Ng
@@ -245,7 +256,7 @@ uyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb><C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ThucNguyenResume.pdf (1 page, 79900 bytes).
+Output written on ThucNguyenResume.pdf (1 page, 83122 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

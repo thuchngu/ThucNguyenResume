@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1562943031 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562943048
+["pdflatex"] 1562947838 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1562947845
   "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
   "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -23,9 +23,9 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/nopageno/nopageno.sty" 923785200 947 32f9abe6276a11a5422e521974f546b6 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenResume.aux" 1562943032 1321 96047f10e259158fe578a4e8a50ce96e "pdflatex"
-  "ThucNguyenResume.tex" 1562943048 2673 0425b88dc334a2708d6f4cf759dfbeb3 ""
+  "ThucNguyenResume.aux" 1562947838 1426 97438ded704722619939be07c05806bf "pdflatex"
+  "ThucNguyenResume.tex" 1562947844 2695 955fae5bee8961b2fbbac5d839971665 ""
   (generated)
-  "ThucNguyenResume.log"
-  "ThucNguyenResume.pdf"
   "ThucNguyenResume.aux"
+  "ThucNguyenResume.pdf"
+  "ThucNguyenResume.log"

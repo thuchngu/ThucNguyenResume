@@ -1,0 +1,61 @@
+PWD C:\Users\Thuc Nguyen\Documents\Resume\Cover Letter
+INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT ThucNguyenCoverLetter.tex
+OUTPUT ThucNguyenCoverLetter.log
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\stix.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\stix.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\nopageno\nopageno.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titling.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT ThucNguyenCoverLetter.aux
+INPUT ThucNguyenCoverLetter.aux
+OUTPUT ThucNguyenCoverLetter.aux
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls2stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ls2stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\t1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\t1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+OUTPUT ThucNguyenCoverLetter.pdf
+INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT ThucNguyenCoverLetter.aux
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\stix\stix-t1.enc
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Regular.pfb
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Regular.pfb

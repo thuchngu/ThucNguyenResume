@@ -1,11 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1565031732 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1565031732
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
+["pdflatex"] 1566668853 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1566669470
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc" 1356265342 7013 c55cc8669071ac14036c4a0c96c16202 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-ts1.enc" 1356265342 2836 154e6b0061f9b8cb549144b55b268339 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/stix/t1-stixgeneral-bold.tfm" 1362149214 11012 fe8465b2dc4812fb0ce069fcb0fe6af8 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/stix/t1-stixgeneral.tfm" 1362149214 11184 42ce9dfc058df87da7094b2e2fab1260 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/stix/ts1-stixgeneral.tfm" 1362149214 1420 a3fb73e1fffd188e53dd5a0b1edb271e ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Bold.pfb" 1356265342 250376 bf3a400e1273354c5c26332493ec1650 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Regular.pfb" 1356265342 547522 236ff2bb503aa0bb9279bcfcb1c68020 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty" 1284260789 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -27,11 +29,12 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/ls2stix.fd" 1524060088 1847 bf9e70e07e7ec0abfc983dabb9a955ad ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/stix.sty" 1524060087 129914 a11e838621b2e6d75941a1980aaa80ac ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/t1stix.fd" 1524060088 2269 8c074e05c4ef5af520f739918e222af4 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/ts1stix.fd" 1524060088 2282 3023591354ba6ccf3a61923e27246aae ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenCoverLetter.aux" 1565031732 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "ThucNguyenCoverLetter.tex" 1565031731 699 8e699d261bd7e4ef271fdf5e200ca85d ""
+  "ThucNguyenCoverLetter.aux" 1566668858 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "ThucNguyenCoverLetter.tex" 1566669469 2590 88e4723cc7c63e7372323d315e16bf12 ""
   (generated)
+  "ThucNguyenCoverLetter.log"
   "ThucNguyenCoverLetter.aux"
   "ThucNguyenCoverLetter.pdf"
-  "ThucNguyenCoverLetter.log"

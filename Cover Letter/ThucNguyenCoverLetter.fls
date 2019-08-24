@@ -1,4 +1,4 @@
-PWD C:\Users\Thuc Nguyen\Documents\Resume\Cover Letter
+PWD D:\Documents\ThucNguyenResume\Cover Letter
 INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT ThucNguyenCoverLetter.tex
 OUTPUT ThucNguyenCoverLetter.log
@@ -51,9 +51,13 @@ INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\t1st
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral.tfm
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\t1-stixgeneral-bold.tfm
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ts1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\stix\ts1stix.fd
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\stix\ts1-stixgeneral.tfm
 OUTPUT ThucNguyenCoverLetter.pdf
 INPUT C:\Users\Thuc Nguyen\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT ThucNguyenCoverLetter.aux
+INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\stix\stix-ts1.enc
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\stix\stix-t1.enc
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb
 INPUT C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\stix\STIXGeneral-Bold.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  24 AUG 2019 13:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  28 AUG 2019 12:57
 entering extended mode
 **./ThucNguyenCoverLetter.tex
 (ThucNguyenCoverLetter.tex
@@ -394,15 +394,15 @@ File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=542.02501pt
-* \textheight=722.7pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -422,7 +422,7 @@ File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 
 LaTeX Font Info:    Font shape `T1/stix/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/stix/b/n' tried instead on input line 34.
-LaTeX Font Info:    Try loading font information for TS1+stix on input line 68.
+LaTeX Font Info:    Try loading font information for TS1+stix on input line 66.
 
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\ts1stix
@@ -435,7 +435,7 @@ NguyenCoverLetter.aux) )
 Here is how much of TeX's memory you used:
  3455 strings out of 492891
  43411 string characters out of 3120746
- 90358 words of memory out of 3000000
+ 91361 words of memory out of 3000000
  7386 multiletter control sequences out of 15000+200000
  13007 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -446,7 +446,7 @@ Here is how much of TeX's memory you used:
 l/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Bold.pfb><C:/Users/Th
 uc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral
 -Regular.pfb>
-Output written on ThucNguyenCoverLetter.pdf (1 page, 83551 bytes).
+Output written on ThucNguyenCoverLetter.pdf (1 page, 83610 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

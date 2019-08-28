@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1566668853 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1566669470
+["pdflatex"] 1567011446 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1567011455
   "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
   "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc" 1356265342 7013 c55cc8669071ac14036c4a0c96c16202 ""
@@ -32,9 +32,9 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/ts1stix.fd" 1524060088 2282 3023591354ba6ccf3a61923e27246aae ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenCoverLetter.aux" 1566668858 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "ThucNguyenCoverLetter.tex" 1566669469 2590 88e4723cc7c63e7372323d315e16bf12 ""
+  "ThucNguyenCoverLetter.aux" 1567011447 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "ThucNguyenCoverLetter.tex" 1567011454 2864 99cb0f39978c2527af1f7bb73338e671 ""
   (generated)
   "ThucNguyenCoverLetter.log"
-  "ThucNguyenCoverLetter.aux"
   "ThucNguyenCoverLetter.pdf"
+  "ThucNguyenCoverLetter.aux"

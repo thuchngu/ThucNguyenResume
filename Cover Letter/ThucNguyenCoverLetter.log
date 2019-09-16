@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  28 AUG 2019 12:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  16 SEP 2019 15:28
 entering extended mode
 **./ThucNguyenCoverLetter.tex
 (ThucNguyenCoverLetter.tex
@@ -342,45 +342,45 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 metry.cfg")) (ThucNguyenCoverLetter.aux)
 \openout1 = `ThucNguyenCoverLetter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 29.
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.
 fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for LS1+stix on input line 31.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for LS1+stix on input line 29.
 
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\ls1stix
 .fd"
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for LS2+stix on input line 31.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 29.
+LaTeX Font Info:    Try loading font information for LS2+stix on input line 29.
 
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\ls2stix
 .fd"
 File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for T1+stix on input line 31.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+stix on input line 29.
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\t1stix.
 fd"
@@ -421,8 +421,8 @@ File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/stix/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/stix/b/n' tried instead on input line 34.
-LaTeX Font Info:    Try loading font information for TS1+stix on input line 66.
+(Font)              Font shape `T1/stix/b/n' tried instead on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+stix on input line 58.
 
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\ts1stix
@@ -434,19 +434,19 @@ File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
 NguyenCoverLetter.aux) ) 
 Here is how much of TeX's memory you used:
  3455 strings out of 492891
- 43411 string characters out of 3120746
- 91361 words of memory out of 3000000
+ 43443 string characters out of 3120746
+ 91344 words of memory out of 3000000
  7386 multiletter control sequences out of 15000+200000
  13007 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,4n,32p,620b,141s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,4n,32p,628b,141s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9
 /fonts/enc/dvips/stix/stix-ts1.enc}{C:/Users/Thuc Nguyen/AppData/Local/Programs
 /MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc}<C:/Users/Thuc Nguyen/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Bold.pfb><C:/Users/Th
 uc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral
 -Regular.pfb>
-Output written on ThucNguyenCoverLetter.pdf (1 page, 83610 bytes).
+Output written on ThucNguyenCoverLetter.pdf (1 page, 83613 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

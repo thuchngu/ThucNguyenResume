@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1569891450 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1569891451
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
+["pdflatex"] 1570413391 "ThucNguyenResume.tex" "ThucNguyenResume.pdf" "ThucNguyenResume" 1570413392
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc" 1356265342 7013 c55cc8669071ac14036c4a0c96c16202 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/stix/t1-stixgeneral-bold.tfm" 1362149214 11012 fe8465b2dc4812fb0ce069fcb0fe6af8 ""
@@ -31,9 +31,9 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/t1stix.fd" 1524060088 2269 8c074e05c4ef5af520f739918e222af4 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenResume.aux" 1569891450 1661 e489a5a99e68eb8c3f848ab50f2aa38a "pdflatex"
-  "ThucNguyenResume.tex" 1569891449 4729 5742f6fe9d5d5fb7c729e147b007c1cf ""
+  "ThucNguyenResume.aux" 1570413392 1661 f43654baa5896f503d8bba3243362c5d "pdflatex"
+  "ThucNguyenResume.tex" 1570413383 4729 f34fae1814667951300f8e52f90b3788 ""
   (generated)
-  "ThucNguyenResume.aux"
   "ThucNguyenResume.log"
+  "ThucNguyenResume.aux"
   "ThucNguyenResume.pdf"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  1 OCT 2019 10:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  9 OCT 2019 20:04
 entering extended mode
 **./ThucNguyenCoverLetter.tex
 (ThucNguyenCoverLetter.tex
@@ -422,7 +422,7 @@ File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 
 LaTeX Font Info:    Font shape `T1/stix/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/stix/b/n' tried instead on input line 32.
-LaTeX Font Info:    Try loading font information for TS1+stix on input line 60.
+LaTeX Font Info:    Try loading font information for TS1+stix on input line 59.
 
 
 ("C:\Users\Thuc Nguyen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/stix\ts1stix
@@ -434,19 +434,19 @@ File: ts1stix.fd 2015/04/17 v1.1.2-latex STIX TS1 font definitions
 NguyenCoverLetter.aux) ) 
 Here is how much of TeX's memory you used:
  3455 strings out of 492891
- 43411 string characters out of 3120746
+ 43443 string characters out of 3120746
  91344 words of memory out of 3000000
  7386 multiletter control sequences out of 15000+200000
  13007 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,4n,32p,749b,141s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,4n,32p,526b,141s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9
 /fonts/enc/dvips/stix/stix-ts1.enc}{C:/Users/Thuc Nguyen/AppData/Local/Programs
 /MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc}<C:/Users/Thuc Nguyen/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Bold.pfb><C:/Users/Th
 uc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral
 -Regular.pfb>
-Output written on ThucNguyenCoverLetter.pdf (1 page, 83658 bytes).
+Output written on ThucNguyenCoverLetter.pdf (1 page, 83457 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

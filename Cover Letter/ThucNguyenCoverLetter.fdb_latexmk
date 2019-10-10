@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1569941013 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1569941017
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562898768 4285650 e75cf2467fce794a98f51c0a096f3d86 ""
-  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562896413 4537216 d924ff61cb7cc370d81be87d05df07ef ""
+["pdflatex"] 1570665881 "ThucNguyenCoverLetter.tex" "ThucNguyenCoverLetter.pdf" "ThucNguyenCoverLetter" 1570665883
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1562877892 4285650 c05986d22153cb9f9e1abfaca5fcaa8d ""
+  "C:/Users/Thuc Nguyen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1562875941 4537216 d924ff61cb7cc370d81be87d05df07ef ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-t1.enc" 1356265342 7013 c55cc8669071ac14036c4a0c96c16202 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/stix/stix-ts1.enc" 1356265342 2836 154e6b0061f9b8cb549144b55b268339 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
@@ -32,9 +32,9 @@
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/stix/ts1stix.fd" 1524060088 2282 3023591354ba6ccf3a61923e27246aae ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titlesec/titlesec.sty" 1458573264 37387 afa86533e532701faf233f3f592c61e0 ""
   "C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/tex/latex/titling/titling.sty" 1252048308 7358 95ac619994bd30d405a74f3eca431c84 ""
-  "ThucNguyenCoverLetter.aux" 1569941017 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "ThucNguyenCoverLetter.tex" 1569941010 3144 8b6959d015ee3c25d5aee42b7f09a299 ""
+  "ThucNguyenCoverLetter.aux" 1570665883 9 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "ThucNguyenCoverLetter.tex" 1570665881 2985 11c76de8fd44522ef155a683a73d2c8a ""
   (generated)
-  "ThucNguyenCoverLetter.aux"
   "ThucNguyenCoverLetter.log"
   "ThucNguyenCoverLetter.pdf"
+  "ThucNguyenCoverLetter.aux"

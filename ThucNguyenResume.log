@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  30 DEC 2019 22:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.7.11)  3 AUG 2020 09:49
 entering extended mode
 **./ThucNguyenResume.tex
 (ThucNguyenResume.tex
@@ -451,8 +451,8 @@ and I'll forget about whatever was undefined.
 ThucNguyenResume.tex:60: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.60 ...oston University Center for Space Physics}
-                                                    \textit{Research Assista...
+l.60 \subsection{US Naval Research Laboratory}
+                                               \textit{Electronics Engineer}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -462,8 +462,8 @@ and I'll forget about whatever was undefined.
 ThucNguyenResume.tex:65: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.65 \subsection{Mugar Memorial Library}
-                                         \textit{Library Assistant}
+l.65 ...oston University Center for Space Physics}
+                                                    \textit{Research Assista...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -473,7 +473,18 @@ and I'll forget about whatever was undefined.
 ThucNguyenResume.tex:70: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.70 \subsection{Town of Esopus Library}
+l.70 \subsection{Mugar Memorial Library}
+                                         \textit{Library Assistant}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ThucNguyenResume.tex:75: Undefined control sequence.
+<argument> \medium 
+                   \bfseries 
+l.75 \subsection{Town of Esopus Library}
                                          \textit{Library Page}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -481,10 +492,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:84: Undefined control sequence.
+ThucNguyenResume.tex:89: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.84 \subsection{Keyboard PCB}
+l.89 ...{Lunar Atmospheric Cubesat Imaging System}
+                                                   \textit{Senior Design Pro...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+ThucNguyenResume.tex:93: Undefined control sequence.
+<argument> \medium 
+                   \bfseries 
+l.93 \subsection{Keyboard PCB}
                                \textit{Personal Project}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -492,10 +514,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:88: Undefined control sequence.
+ThucNguyenResume.tex:97: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.88 \subsection{Simple Pipelined MIPS CPU}
+l.97 \subsection{Simple Pipelined MIPS CPU}
                                             \textit{Final Project for Comput...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -503,10 +525,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:92: Undefined control sequence.
+ThucNguyenResume.tex:101: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.92 \subsection{Lamp Post Mounted Flood Detector}
+l.101 ...section{Lamp Post Mounted Flood Detector}
                                                    \textit{Final Project for...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -514,22 +536,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:96: Undefined control sequence.
+ThucNguyenResume.tex:105: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.96 \subsection{Verilog Digital Lock}
-                                       \textit{Final Project for Logic Desig...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-ThucNguyenResume.tex:100: Undefined control sequence.
-<argument> \medium 
-                   \bfseries 
-l.100 \subsection{Currency Conversion App}
-                                           \textit{Final Project for Softwar...
+l.105 \subsection{Verilog Digital Lock}
+                                        \textit{Final Project for Logic Desi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -542,7 +553,7 @@ and I'll forget about whatever was undefined.
 (ThucNguyenResume.aux) ) 
 Here is how much of TeX's memory you used:
  3443 strings out of 492891
- 43046 string characters out of 3120746
+ 43012 string characters out of 3120746
  94358 words of memory out of 3000000
  7377 multiletter control sequences out of 15000+200000
  23671 words of font info for 22 fonts, out of 3000000 for 9000
@@ -554,7 +565,7 @@ MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Bold.pfb><C:/Users/Thuc Nguyen/A
 ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/stix/STIXGeneral-Italic.pfb
 ><C:/Users/Thuc Nguyen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/sti
 x/STIXGeneral-Regular.pfb>
-Output written on ThucNguyenResume.pdf (1 page, 128104 bytes).
+Output written on ThucNguyenResume.pdf (1 page, 128123 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

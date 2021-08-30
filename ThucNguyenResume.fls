@@ -1,6 +1,6 @@
 PWD C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume
 INPUT C:\Users\Thuc\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT ThucNguyenResume.tex
+INPUT C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.tex
 OUTPUT ThucNguyenResume.log
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -136,9 +136,9 @@ INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\ThucNguyenResume.aux
-INPUT ThucNguyenResume.aux
-INPUT ThucNguyenResume.aux
+INPUT C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
+INPUT C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
+INPUT C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
 OUTPUT ThucNguyenResume.aux
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\stix\ls1stix.fd
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex\latex\stix\ls1stix.fd
@@ -156,7 +156,7 @@ INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\stix\t1-stixg
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\stix\t1-stixgeneral-italic.tfm
 OUTPUT ThucNguyenResume.pdf
 INPUT C:\Users\Thuc\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT ThucNguyenResume.aux
+INPUT C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\stix\stix-t1.enc
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\fonts\type1\public\stix\STIXGeneral-Bold.pfb
 INPUT C:\Users\Thuc\AppData\Local\Programs\MiKTeX\fonts\type1\public\stix\STIXGeneral-Bold.pfb

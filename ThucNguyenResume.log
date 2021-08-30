@@ -1,10 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.4.12)  12 APR 2021 19:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.4.12)  30 AUG 2021 14:53
 entering extended mode
-**./ThucNguyenResume.tex
-(ThucNguyenResume.tex
+**C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.te
+x
+
+(C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex
 LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-12-07> xparse <2020-03-03>
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2020-12-07> xparse <2020-03-03> (C:\Users\Thuc\AppData\Lo
+cal\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -20,13 +22,10 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/stix\stix.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/stix\stix.sty
 Package: stix 2018/04/17 v1.1.3-latex STIX fonts support package
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 75.
@@ -126,11 +125,9 @@ LaTeX Info: Redefining \vdots on input line 1518.
 LaTeX Info: Redefining \cdots on input line 1522.
 LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 1978.
 LaTeX Info: Redefining \not on input line 2144.
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/nopageno\nopageno.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/nopageno\nopageno.sty
 Package: nopageno 1989/01/01 no page numbers (DPC)
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box47
 \beforetitleunit=\skip49
@@ -141,23 +138,18 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen141
 \titlewidthlast=\dimen142
 \titlewidthfirst=\dimen143
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip51
 \thanksmargin=\skip52
 \droptitle=\skip53
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)
-(C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
@@ -173,11 +165,9 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen150
 \Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks17
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 LaTeX Font Info:    Trying to load font information for T1+stix on input line 3
 1.
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/stix\t1stix.fd
 File: t1stix.fd 2015/04/17 v1.1.2-latex STIX T1 font definitions
 )
@@ -186,7 +176,9 @@ ex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count188
 \l__pdf_internal_box=\box48
-) (ThucNguyenResume.aux)
+)
+(C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
+)
 \openout1 = `ThucNguyenResume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -206,7 +198,6 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for LS1/stix/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for LS1+stix on input line 
 31.
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/stix\ls1stix.fd
 File: ls1stix.fd 2015/04/17 v1.1.2-latex STIX LS1 font definitions
 )
@@ -214,12 +205,10 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for LS2/stix/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for LS2+stix on input line 
 31.
-
 (C:\Users\Thuc\AppData\Local\Programs\MiKTeX\tex/latex/stix\ls2stix.fd
 File: ls2stix.fd 2015/04/17 v1.1.2-latex STIX LS2 font definitions
 )
 LaTeX Font Info:    ... okay on input line 31.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -254,7 +243,8 @@ LaTeX Font Info:    ... okay on input line 31.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ThucNguyenResume.tex:52: Undefined control sequence.
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+52: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
 l.52 \subsection{Proficient}
@@ -265,7 +255,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:55: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+55: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
 l.55 \subsection{Familiar}
@@ -276,10 +268,25 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:60: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+60: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.60 \subsection{US Naval Research Laboratory}
+l.60 \subsection{Raytheon BBN Technologies}
+                                            \textit{Engineer I, Research}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+65: Undefined control sequence.
+<argument> \medium 
+                   \bfseries 
+l.65 \subsection{US Naval Research Laboratory}
                                                \textit{Electronics Engineer}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -287,10 +294,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:65: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+70: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.65 ...oston University Center for Space Physics}
+l.70 ...oston University Center for Space Physics}
                                                     \textit{Research Assista...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -298,10 +307,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:70: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+75: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.70 \subsection{Mugar Memorial Library}
+l.75 \subsection{Mugar Memorial Library}
                                          \textit{Library Assistant}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -309,10 +320,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:75: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+80: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.75 \subsection{Town of Esopus Library}
+l.80 \subsection{Town of Esopus Library}
                                          \textit{Library Page}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -320,10 +333,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:89: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+94: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.89 ...{Lunar Atmospheric Cubesat Imaging System}
+l.94 ...{Lunar Atmospheric Cubesat Imaging System}
                                                    \textit{Senior Design Pro...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -331,10 +346,12 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:93: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+98: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.93 \subsection{Keyboard PCB}
+l.98 \subsection{Keyboard PCB}
                                \textit{Personal Project}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -342,21 +359,25 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:97: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+102: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.97 \subsection{Simple Pipelined MIPS CPU}
-                                            \textit{Final Project for Comput...
+l.102 \subsection{Simple Pipelined MIPS CPU}
+                                             \textit{Final Project for Compu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-ThucNguyenResume.tex:101: Undefined control sequence.
+
+C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
+106: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.101 ...section{Lamp Post Mounted Flood Detector}
+l.106 ...section{Lamp Post Mounted Flood Detector}
                                                    \textit{Final Project for...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -364,24 +385,25 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[1
+ [1
 
 {C:/Users/Thuc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(ThucNguyenResume.aux) ) 
+(C:\Users\Thuc\Documents\ThucNguyenResume\ThucNguyenResume\ThucNguyenResume.aux
+) ) 
 Here is how much of TeX's memory you used:
- 4444 strings out of 479696
- 55350 string characters out of 2867590
- 311712 words of memory out of 3000000
+ 4446 strings out of 479696
+ 55640 string characters out of 2867590
+ 312720 words of memory out of 3000000
  21566 multiletter control sequences out of 15000+200000
  423461 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,4n,72p,407b,135s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/enc/
-dvips/stix/stix-t1.enc}<C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/stix/STIXGeneral-Bold.pfb><C:/Users/Thuc/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/stix/STIXGeneral-Italic.pfb><C:/Users/Thuc/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/stix/STIXGeneral-Regular.pfb>
-Output written on ThucNguyenResume.pdf (1 page, 127910 bytes).
+ 66i,4n,72p,463b,135s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/stix/stix-t1.en
+c}<C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix/STIXGene
+ral-Bold.pfb><C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/type1/public/st
+ix/STIXGeneral-Italic.pfb><C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/stix/STIXGeneral-Regular.pfb>
+Output written on ThucNguyenResume.pdf (1 page, 128125 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

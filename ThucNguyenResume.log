@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.4.12)  30 AUG 2021 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.4.12)  25 APR 2022 20:26
 entering extended mode
 **C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.te
 x
@@ -273,8 +273,8 @@ C:/Users/Thuc/Documents/ThucNguyenResume/ThucNguyenResume/ThucNguyenResume.tex:
 60: Undefined control sequence.
 <argument> \medium 
                    \bfseries 
-l.60 \subsection{Raytheon BBN Technologies}
-                                            \textit{Engineer I, Research}
+l.60 \subsection{Raytheon BBN}
+                               \textit{Associate Scientist}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -403,7 +403,7 @@ c}<C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/type1/public/stix/STIXGene
 ral-Bold.pfb><C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/type1/public/st
 ix/STIXGeneral-Italic.pfb><C:/Users/Thuc/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/stix/STIXGeneral-Regular.pfb>
-Output written on ThucNguyenResume.pdf (1 page, 128125 bytes).
+Output written on ThucNguyenResume.pdf (1 page, 128063 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

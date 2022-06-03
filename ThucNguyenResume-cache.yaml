@@ -71,7 +71,7 @@ options:
   $PATH: 'C:\Users\Thuc\AppData\Local\Programs\MiKTeX\miktex\bin\x64'
 files:
   dicy-instance.yaml-ParsedYAML:
-    timeStamp: 2022-06-02T21:11:50.477Z
+    timeStamp: 2022-06-03T19:00:03.723Z
     jobNames: []
     value:
       severity: info
@@ -130,22 +130,22 @@ files:
       $PATH: 'C:\Users\Thuc\AppData\Local\Programs\MiKTeX\miktex\bin\x64'
     type: ParsedYAML
   ThucNguyenResume.tex:
-    timeStamp: 2022-06-02T23:59:39.488Z
+    timeStamp: 2022-06-03T19:00:01.010Z
     jobNames: []
-    hash: QAbjxDmoA3A+ktuCXXWpHbZ48OLzXGai2Lhz8HMYNSw=
+    hash: 8uqzoIR/kThH4+GwPAwmN2OnicrfRDmLkD9znn/g7yA=
     type: LaTeX
     subType: article
   'C:\Users\Thuc\AppData\Roaming\dicy\config.yaml':
-    timeStamp: 2022-06-02T21:11:50.485Z
+    timeStamp: 2022-06-03T19:00:03.732Z
     jobNames: []
     type: YAML
   x.y-Nil:
     jobNames: []
     type: Nil
   ThucNguyenResume.log:
-    timeStamp: 2022-06-02T21:11:51.572Z
+    timeStamp: 2022-06-02T23:59:40.046Z
     jobNames: []
-    hash: wmuGikF+p90cy+G+TL2KEVANbS/fh0B/ALi/BNXDi/s=
+    hash: 5G9L1UNGFRgcDK0JCVL9+uZdjqZPN8XQi18r9ouG6jM=
     type: LaTeXLog
     subType: pdfTeX
   ThucNguyenResume.fls-ParsedFileListing:
@@ -1447,9 +1447,9 @@ files:
       calls: []
     type: ParsedLaTeXLog
   ThucNguyenResume.pdf:
-    timeStamp: 2022-06-02T23:59:40.045Z
+    timeStamp: 2022-06-03T19:00:04.708Z
     jobNames: []
-    hash: rf1asQxA5IFhTExHVpx6AInHHySN8ojyaT0CSxm8OT0=
+    hash: Cdk9Xmg88dkp6ahtDfHFI2M2fSnoM9Vc7Uz8YGPrqYQ=
     type: PortableDocumentFormat
 rules:
   - name: ApplyOptions
